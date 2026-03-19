@@ -1,0 +1,12 @@
+node_modules/
+__pycache__/
+venv/
+data/faiss_index/
+data/eval/
+data/documents/
+*.pdf
+*.faiss
+dist/
+build/
+.git/
+package-lock.json
