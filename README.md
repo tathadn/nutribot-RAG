@@ -228,6 +228,12 @@ Interactive API docs available at `http://localhost:8000/docs`:
 
 ---
 
+## Tools Used
+
+- **[Claude](https://claude.ai)** (Anthropic) — Used as the LLM backend for generating cited answers via the Claude Sonnet API, and as a coding assistant during development.
+
+---
+
 ## License
 
 MIT
